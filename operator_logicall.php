@@ -11,4 +11,6 @@
     $isNotSuitable = !($temperature >= 40 && $temperature <= 41);
     var_dump($isNotSuitable);
     ?>
+
+    echo'temperature = ',$temperature; 
 </body>
