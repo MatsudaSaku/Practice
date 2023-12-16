@@ -12,7 +12,8 @@
     var_dump($isNotSuitable);
 
     echo'temperature = ',print_r($temperature); 
-    echo 'temperature = ', $temperature;
+    
+    //echo 'temperature = ', $temperature;
     echo 'temperature = ';
     print_r($temperature);
     ?>
