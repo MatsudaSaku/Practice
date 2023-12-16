@@ -1,0 +1,14 @@
+<body>
+    <?php
+    var_dump(1234);
+    var_dump((String)1234);
+    var_dump((int)1234.5);
+    var_dump((string)true);
+    var_dump((string)false);
+    var_dump((bool)'true');
+    var_dump((bool)'false');
+    var_dump((bool)0);
+    var_dump((bool)1);
+    var_dump((bool)-1);
+    ?>
+</body>
